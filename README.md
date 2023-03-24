@@ -22,6 +22,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Teams
 - Allow anyone to create tickets
 - Configure Agents
+- Configure Users
 - Configure SLAs
 - Configure Help Topics
 
@@ -68,31 +69,34 @@ Navigate to "Admin Panel" and select "Settings" followed by "Users". Make sure t
 <img src="https://i.imgur.com/CiFEltP.png"/>
 </p>
 <p>
-Navigate to "Admin Panel" and select "Agents" followed by "Add New Agents". Be sure to set a password for the new agent.
+Navigate to "Admin Panel" and select "Agents" followed by "Add New Agents". 
 </p>
 <br />
 
-<h2>
+<h2>Configure Users (Customers)</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SaKoYNE.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to "Agent Panel" and select "Users" followed by "Add New Users".
 </p>
 <br />
 
+<h2>Configure SLAs (Service Level Agreement)</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bnGpLqW.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to "Admin Panel" and select "Manage" then "SLA" followed by "Add New SLA Plan". Be sure to give the SLA a name, status, grace period, and schedule.
 </p>
 <br />
+
+<h2>Configure Help Topics</h2>
+<p>
+<img src="https://i.imgur.com/MB3HgZN.png"/>
+</p>
+<p>
+Navigate to "Admin Panel" and select "Manage" then "Help Topics" followed by "Add New Help Topic". Be sure to give the help topic a name, status, and type.
+</p>
+<br />
+
